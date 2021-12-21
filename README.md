@@ -1,4 +1,4 @@
-*** Hi there 👋 , I'm Vandan - aka[coder]  😎🤘
+### Hi there 👋 , I'm Vandan - aka[coder]  😎🤘
 
 ** I'm a Student , a Learner and a Good Friend 
 - I'm currently Working on Convolutional Neural Network 
