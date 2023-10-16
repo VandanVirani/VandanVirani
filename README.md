@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>,
 I'm [Vandan](https://github.com/VandanVirani) - aka[coder]  😎🤘
 
 ** I'm a Student , a Learner and a Good Friend 
